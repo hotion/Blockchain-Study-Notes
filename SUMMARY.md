@@ -4,7 +4,7 @@
 
 ## 区块链模型
 
-* [核心概念](qu-kuai-lian-mo-xing/he-xin-gai-nian.md)
+* [核心概念](blockchain/core.md)
 
 ## 分布式系统
 
